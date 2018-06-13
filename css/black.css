@@ -3657,4 +3657,7 @@
   .para_menu .options a span { filter: grayscale(2) brightness(5); }
   .para_menu a.trigger.pilcrow { filter: grayscale(2) brightness(1.8); }
   .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active { filter: grayscale(2) brightness(2); } }
-.messages_header { color: #e6e6e6; }
+  .channel_title .channel_name { color: #7c3896; }
+  .c-message--light .c-message__sender .c-message__sender_link { color: #7c3896; }
+  .c-message__body { color: #9a9a9a; }
+  
